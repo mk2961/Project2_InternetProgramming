@@ -1,0 +1,17 @@
+{
+  "name": "homework2",
+  "version": "1.0.0",
+  "description": "class to scroll through pic with a touch screen ",
+  "main": "src/js/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "html-webpack-plugin": "^2.30.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --progress"
+  },
+  "author": "Chad Killingsworh, Michael Knapp",
+  "license": "ISC"
+}
